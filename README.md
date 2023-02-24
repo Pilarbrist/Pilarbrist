@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @Pilarbrist
-- 👀 I’m interested in Cloud computing
-- 🌱 I’m currently learning functional programming such Kotlin and Java 8
-- 💞️ I’m looking to collaborate on Data Structures and Functional programming
-- 📫 How to reach me at https://www.linkedin.com/in/pilarbrist/ or pbrst2020@yahoo.com
+Geek Cloud Computing
+- 📫 How to reach me at https://www.linkedin.com/in/pilarbrist/ 
 
 <!---
 Pilarbrist/Pilarbrist is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
